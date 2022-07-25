@@ -1,4 +1,4 @@
-# -Deploy-high-availability-web-app-using-cloud-formation-Udagram
+# Deploy high availability web app (Udagram) using cloudformation
 The 2nd project of Udacity Cloud DevOps nanodegree. Assuming a company is creating an Instagram clone called Udagram Developers wanted to deploy a new application to the AWS infrastructure. 
 
 # To view the website
